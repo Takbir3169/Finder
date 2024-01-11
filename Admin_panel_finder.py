@@ -50,6 +50,6 @@ except:
 print("\n\n\n\n")
 print(Fore.LIGHTBLACK_EX)	
 print("""
-Made by Zucker
-Please subscribe to my channel!
+Made by Timur
+Please subscribe to my channel! ---> @Takbir_co
 """)
