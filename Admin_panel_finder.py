@@ -19,7 +19,7 @@ print("""
  |A|d|m|i|n| |p|a|n|e|l| |f|i|n|d|e|r|   |Timur|
  +-+-+-+-+-+ +-+-+-+-+-+ +-+-+-+-+-+-+""")
 print(Fore.CYAN)
-print("""TELEGRAM >> not ID ---- RUBIKA >> without ID
+print("""TELEGRAM >> not ID ---- RUBIKA >> Takbir_co
      	TELEGRAM CHANNEL >> t.me/Takbir_co
 """)
 
