@@ -1,5 +1,5 @@
-#!/usr/bin/python
-# creator ---> Timur
+# Creator ---> Timur
+# Do not copy
 
 import requests
 import webbrowser
@@ -19,8 +19,8 @@ print("""
  |A|d|m|i|n| |p|a|n|e|l| |f|i|n|d|e|r|   |Timur|
  +-+-+-+-+-+ +-+-+-+-+-+ +-+-+-+-+-+-+""")
 print(Fore.CYAN)
-print("""TELEGRAM >> not ID ---- RUBIKA >> Takbir_co
-     	TELEGRAM CHANNEL >> t.me/Takbir_co
+print("""TELEGRAM >> not ID-Telegram ---> @Devotede
+     	TELEGRAM CHANNEL >> t.me/progmation
 """)
 
 print("\n\n\n")
@@ -51,5 +51,5 @@ print("\n\n\n\n")
 print(Fore.LIGHTBLACK_EX)	
 print("""
 Made by Timur
-Please subscribe to my channel! ---> @Takbir_co
+Please subscribe to my channel! ---> t.me/progmation
 """)
